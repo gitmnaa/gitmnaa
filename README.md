@@ -46,8 +46,12 @@ Day 1 ✅
 Day 2 ✅
 Day 3 ✅
 Day 4 🚀
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitmnaa/gitmnaa/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitmnaa/gitmnaa/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gitmnaa/gitmnaa/output/github-snake.svg">
-</picture>
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <b>Mon&nbsp;&nbsp;&nbsp;Tue&nbsp;&nbsp;&nbsp;Wed&nbsp;&nbsp;&nbsp;Thu&nbsp;&nbsp;&nbsp;Fri&nbsp;&nbsp;&nbsp;Sat&nbsp;&nbsp;&nbsp;Sun</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gitmnaa/gitmnaa/output/github-snake-black.svg" alt="GitHub Contribution Snake">
+</p>
