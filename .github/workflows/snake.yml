@@ -21,7 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?color_snake=%2300ff88%26color_dots=%23050505,%23080808,%230d0d0d,%23141414,%231c1c1c
+            "dist/github-snake-dark.svg?color_snake=%2300ff88&color_dots=%23050505,%23080808,%230d0d0d,%23141414,%231c1c1c"
 
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
