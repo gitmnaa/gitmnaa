@@ -19,9 +19,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+         outputs: |
+  dist/github-snake.svg
+  dist/github-snake-dark.svg?color_snake=#00ff88&color_dots=#050505,#080808,#0d0d0d,#141414,#1c1c1c 
 
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
