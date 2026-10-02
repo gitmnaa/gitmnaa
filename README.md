@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm gitmnaa
 
-<!--
-**gitmnaa/gitmnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web3 & Blockchain Enthusiast
+💻 Learning Git & GitHub
+🌱 Building something every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Current Focus
+
+🔹 GitHub 30 Days Challenge
+🔹 Web3 Projects
+🔹 Open Source
+🔹 Blockchain Technology
+
+## 🛠️ Skills
+
+Git • GitHub • Markdown • Web3 • Blockchain
+
+## 📊 30 Days Challenge
+
+Day 1 ✅
+Day 2 ✅
+Day 3 ✅
+Day 4 🚀
